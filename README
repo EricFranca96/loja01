@@ -1,0 +1,3 @@
+Estruturado a página principal, primeiro criando componentes em separados para depois juntar ao corpo inteiro.
+
+criado dois componentes do menu separados menu e menu2 para aprender a melhor forma de utiliza-los na página principal e para ficar responsivos.
