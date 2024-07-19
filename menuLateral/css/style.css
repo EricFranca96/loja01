@@ -22,7 +22,7 @@ nav.menu-lateral {
     transition: .5s;
 }
 
-nav.menu-lateral:hover {
+nav.menu-lateral.expandir {
     width: 300px;
 }
 
@@ -46,6 +46,10 @@ ul li.item-menu {
     transition: 1s;
 }
 
+ul li.ativo {
+    background-color: #FF0077;
+}
+
 ul li.item-menu:hover {
     background: #FF0077;
 }
@@ -61,7 +65,14 @@ ul li.item-menu a {
 }
 
 ul li.item-menu a .txt-link {
+    margin-left: 70px;
+    transition: .5s;
+    opacity: 0;
+}
+
+nav.menu-lateral.expandir .txt-link {
     margin-left: 40px;
+    opacity: 1;
 }
 
 ul li.item-menu a .icon > i {
