@@ -1,10 +1,17 @@
 O site sera construido com sua página principal, onde vai mostrar alguns conteudos da loja, como catalago dos produtos que pode ter o carrinho de compras junto ou em uma pagina de compras separados.
 
 
-tera a página login
+terá a página login
 
 A página Contato
 
 Componentes para o site criados.
 Falta escolher o melhores componentes e juntar eles nas paginas e aplicar responsividade e o javaScript
 também escolher cores para padronizar o site, também colocar imagens da forma comercial correta
+
+O site sera composto com a página login --> página principal --> (Talvez página para o carrinho de compra) --> página contato
+
+A página principal tem a opção de corpo e corpo 2 e tambem pode colocar o catalogo como ele foi criado para mais opções de trabalho.
+como também o menu lateral que foi pensado caso queira um menu diferente e se for separado a página de compras.
+
+Na pasta login foi criada separando todo o CSS numa forma de simplicar caso precise arrumar.
