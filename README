@@ -1,3 +1,10 @@
-Estruturado a página principal, primeiro criando componentes em separados para depois juntar ao corpo inteiro.
+O site sera construido com sua página principal, onde vai mostrar alguns conteudos da loja, como catalago dos produtos que pode ter o carrinho de compras junto ou em uma pagina de compras separados.
 
-criado dois componentes do menu separados menu e menu2 para aprender a melhor forma de utiliza-los na página principal e para ficar responsivos.
+
+tera a página login
+
+A página Contato
+
+Componentes para o site criados.
+Falta escolher o melhores componentes e juntar eles nas paginas e aplicar responsividade e o javaScript
+também escolher cores para padronizar o site, também colocar imagens da forma comercial correta
